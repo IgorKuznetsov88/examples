@@ -1,0 +1,23 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#search_form {
+    margin-right: 45%;
+}
+
+#search_btn {
+    font-family: Batang, sans-serif;
+    color: rgba(234, 81, 22, 0.82);
+    border: grey solid 1px;
+}
+
+#search_btn:hover {
+    background-color: #007bff;
+}
+.row p {
+    height: 200px;
+    overflow: hidden;
+}
